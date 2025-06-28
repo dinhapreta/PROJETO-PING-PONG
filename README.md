@@ -29,7 +29,7 @@ Este projeto é um jogo simples de Ping-Pong desenvolvido com **HTML5, CSS3 e Ja
 ## 📲 Como jogar
 
 1. Acesse o jogo:
-   👉 [https://dinhapreta.github.io/projeto-ping-pong](https://dinhapreta.github.io/projeto-ping-pong)
+   👉 https://dinhapreta.github.io/PROJETO-PING-PONG/
 
 2. Mova o mouse para controlar a raquete esquerda
 3. A raquete direita é automática
